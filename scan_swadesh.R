@@ -41,7 +41,6 @@ norswe <- waffle(
         axis.ticks = element_blank(),
         axis.text = element_blank())
 
-norswe
 norden <- create_plots(norden_table)
 sweden <- create_plots(sweden_table)
 denswe <- create_plots(denswe_table)

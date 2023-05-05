@@ -68,7 +68,7 @@ ggdraw(grid_with_space) +
   annotate("label", x = .395, y = .7, label = "49/100", size = fo_size, family = fo_fam, label.padding=unit(.4, "lines")) +
   annotate("label", x = .61, y = .7, label = "41/100", size = fo_size, family = fo_fam, label.padding=unit(.4, "lines")) +
   annotate("label", x = .825, y = .7, label = "36/100", size = fo_size, family = fo_fam, label.padding=unit(.4, "lines")) +
-  annotate("text", x = .5, y = .93, size = 6, family= "Skia",
+  annotate("text", x = .5, y = .93, size = 6, family = fo_fam,
            label = "Results of a comparison of signs representing 100 different\nconcepts in NTS, STS, and DTS. Purple color = same sign.") +
-  annotate("text", x = .5, y = .857, size = 4, family = "Skia",
+  annotate("text", x = .5, y = .857, size = 4, family = fo_fam,
            label = "https://github.com/ds10023/scandinavia_signs")

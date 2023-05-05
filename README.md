@@ -5,4 +5,7 @@ The waffle plot, which displays one dot per concept, effectively shows whether a
 
 <img src="https://github.com/ds10023/scandinavia_signs/blob/main/nor.jpg" width=50% height=50%>
 
-Reference: <br /> Woodward, J. (1993). The Relationship of Sign Language Varieties in India, Pakistan, &amp; Nepal. Sign Language Studies, 1078(1), 15–22. https://doi.org/10.1353/sls.1993.0010
+### Author
+#### Dag J. Lindeberg
+
+#### Reference: <br /> Woodward, J. (1993). The Relationship of Sign Language Varieties in India, Pakistan, &amp; Nepal. Sign Language Studies, 1078(1), 15–22. https://doi.org/10.1353/sls.1993.0010
